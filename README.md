@@ -10,10 +10,12 @@ All the .zip files are committed using [Git LFS](https://git-lfs.github.com/). S
     - [JavaScript](exercises-js)
     - [Python](exercises-py)
 - A typical schedule for an interview can be found beneath this overview
+- [Must checks and must do's during an interview](MustChecksMustDos.md)
 - [Evaluation criteria and pointers](EvaluationCriteriaAndPointers.md) 
 - [Meeting minutes sharing sessions technical recruiters](sharing-sessions)
-- Links
-    - [Recruitment slack channel](https://cegeka.slack.com/messages/G0C0ZDVK6)
+- External Links
+    - [Recruiting slack channel](https://cegeka.slack.com/messages/G0C0ZDVK6)
+    - [Growth paths java developer](https://github.com/cegeka/growth-paths-java-developer)
     - [Personal development path excel](https://portal.cegeka.com/kn/root/ContinuousLearning/SitePages/Personal%20Development.aspx)
     - [Old homepage recruiters](https://portal.cegeka.com/kn/cc1/ASFrecruitment/SitePages/Community%20Home.aspx)
 

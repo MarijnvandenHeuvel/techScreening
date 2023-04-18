@@ -1,0 +1,31 @@
+# Must checks en must do's tijdens een interview
+- Must checks algemeen: Intelligentie, potentieel en culturele match
+- Must check: Hoe gaat de kandidaat om met feedback?
+  - Hoe: Op zoek gaan naar een topic of subtopic waar ze iets niet weten (doorvragen) om hen te corrigeren en dan de reactie evalueren
+  - Hoe feedback geven op gedragscompetenties: in een vraagstellen "Het valt mij op dat.. / ik krijg het gevoel dat.."
+  - Afhankelijk van het topic, 2 focus punten:
+    - Hoe accepteert de kandidaat de feedback mondeling
+    - Doet de kandidaat iets met de feedback indien mogelijk (vb bij feedback op code)
+- Must do: Pair oefening
+  - Beste tool om te pijlen naar het code niveau en meer
+  - Communicatie tijdens pairen afchecken. Vertelt de kandidaat zelf wat die denkt, indien niet, probeer het actief te vragen
+    - Niet direct opgeven als communicatie niet vlot loopt
+  - Dit is een goed moment om feedback af te checken
+- Must do: Vragen om iets uit te leggen over een vorige ervaring
+  - Reden:
+    - Hiermee kunnen we gestructureerd communiceren afchecken
+    - Hiermee kunnen we een culturele match afchecken
+  - Voorbeelden:
+    - Een vorig project dat je leuk vond
+    - Een vorig project dat je minder leuk vond
+      - Waarom was het voor jou minder leuk? Wat had het eventueel beter kunnen maken?
+    - Wat is voor jou een interessante dag? Wanneer ga je met voldoening naar huis? Wat heb je dan op die dag gedaan van werk?
+    - Wat is voor jou het ideale team?
+- Must do voor architecten: Leg eens aan de hand van visualisaties een project uit waar je voldoende van weet
+  - Dan vragen stellen zoals "waarom hier een queue, hoe zit het met performantie.." 
+- Must do: Niet enkel focussen op pure technische kennisvragen
+  - Who cares als ze Axon niet kennen
+- Must do: de 'waarom' afchecken van bepaalde zaken
+  - vb: waarom testen, test driven, waarom geen if else if else..
+
+- Interessante do: Geef eens uitleg over iets technisch dat je goed kent
